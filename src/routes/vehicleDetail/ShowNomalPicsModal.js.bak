@@ -1,0 +1,142 @@
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Form, Input, InputNumber, Upload, Modal, Icon } from 'antd'
+import _map from 'lodash/map'
+import { api } from '../../utils/config'
+
+const { uploadUrl } = api
+const FormItem = Form.Item
+
+const formItemLayout = {
+  labelCol: {
+    span: 12,
+  },
+  wrapperCol: {
+    span: 14,
+  },
+}
+
+const modal = ({
+  item = {},
+  onOk,onRemove,
+  form: {
+    getFieldDecorator,
+    validateFields,
+    getFieldsValue,
+  },
+  ...modalProps
+}) => {
+  const handleOk = () => {
+    // validateFields((errors) => {
+    //   if (errors) {
+    //     return
+    //   }
+    //   const data = {
+    //     ...getFieldsValue(),
+    //     key: item.key,
+    //   }
+    //   onOk(data)
+    // })
+  }
+
+  const modalOpts = {
+    ...modalProps,
+    onOk: handleOk,
+  }
+  const mileagePicUploadButton = (
+    <FormItem label="里程"  hasFeedback {...formItemLayout}>
+      {getFieldDecorator('mileagePic')(<Upload
+        action={uploadUrl}
+        defaultFileList={
+          item.pictures.map((file) => {
+            if (file.pictureType === 1 && file.picturePosition === 4) {
+              return {
+                key: file.pictureId,
+                uid: file.pictureId,
+                name: file.ossPictureId,
+                status: 'done',
+                url: file.ossPictureUrl,
+               }
+            }
+          }).clean(undefined)
+        }
+        accept="jpg"
+        listType="picture-card"
+        multiple={false}
+      >
+        { item.pictures.map((file) => {
+          if (file.pictureType === 1 && file.picturePosition === 4) {
+            return {
+              key: file.pictureId,
+              uid: file.pictureId,
+              name: file.ossPictureId,
+              status: 'done',
+              url: file.ossPictureUrl,
+            }
+          }
+        }).clean(undefined).length === 0 ? <div>
+          <Icon type="plus" />
+          <div className="ant-upload-text">里程</div>
+        </div> : null}
+      </Upload>)}
+    </FormItem>
+  )
+
+  const vinPicUploadButton = (
+    <FormItem label="车架号" hasFeedback {...formItemLayout}>
+      {getFieldDecorator('vinPic')(<Upload
+        action={uploadUrl}
+        onRemove={onRemove}
+        defaultFileList={
+          item.pictures.map((file) => {
+            if (file.pictureType === 1 && file.picturePosition === 9) {
+              const picObj = {
+                key: file.pictureId,
+                uid: file.pictureId,
+                name: file.ossPictureId,
+                status: 'done',
+                url: file.ossPictureUrl,
+              }
+              return picObj
+            }
+          }).clean(undefined)
+        }
+        listType="picture-card"
+      >
+        { item.pictures.map((file) => {
+          if (file.pictureType === 1 && file.picturePosition === 9) {
+            return {
+              key: file.pictureId,
+              uid: file.pictureId,
+              name: file.ossPictureId,
+              status: 'done',
+              url: file.ossPictureUrl,
+            }
+          }
+        }).clean(undefined).length === 0 ? <div>
+          <Icon type="plus" />
+          <div className="ant-upload-text">车架号</div>
+        </div> : null}
+      </Upload>)}
+    </FormItem>
+  )
+
+  return (
+    <Modal {...modalOpts}>
+      <Form layout="inline">
+        {mileagePicUploadButton}
+        {vinPicUploadButton}
+      </Form>
+    </Modal>
+  )
+}
+
+modal.propTypes = {
+  form: PropTypes.object.isRequired,
+  type: PropTypes.string,
+  item: PropTypes.object,
+  onOk: PropTypes.func,
+  onRemove: PropTypes.func,
+}
+
+export default Form.create()(modal)

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no,email=no,data=no,address=no"/>
+    <meta charset="utf-8">
+    <title>TMS</title>
+    <style type="text/css">
+        html, body, .body-inner {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .body-inner {
+            position: relative;
+        }
+
+        .body-con {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 70%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .body-con div {
+            position: relative;
+            margin: 0 auto 20px;
+            width: 80%;
+            padding-top: 80%;
+            border-radius: 50%;
+            border: 4px solid #5889f7;
+        }
+
+        .body-con img {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 90%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .body-con a {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+    <script type="text/javascript">
+        function openapp() {
+            if(navigator.userAgent.match(/(iPhone|iPod|iPad);?/i))
+            {
+                window.location.href = "dycdtms://com.dycd.tms";//ios app协议
+                // window.setTimeout(function() {
+                //     window.location.href = "https://itunes.apple.com/cn/app/id477927812";
+                // }, 3000)
+            }
+            if(navigator.userAgent.match(/android/i))
+            {
+                window.location.href = "dycdtms://com.dycd.tms";//android app协议
+                // window.setTimeout(function() {
+                //     window.location.href = "https://xmvip.vip/tmsAndroid";//android 下载地址
+                // }, 3000)
+            }
+
+        }
+    </script>
+</head>
+<body onload="openapp()">
+<div class="body-inner">
+    <div class="body-con">
+        <div><img src="logo.png"></div>
+        <p>If the jump is not started or your browser does not support automatic jump, please click
+            the bottom button.</p>
+        <p>若跳转未启动或您的浏览器不支持自动跳转,请点击下方按钮
+        <p>
+            <a href="javascript:;" onclick="openapp();" >跳转到APP</a>
+    </div>
+</div>
+</body>
+</html>

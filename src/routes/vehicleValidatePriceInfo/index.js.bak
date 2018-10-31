@@ -1,0 +1,57 @@
+import React from 'react'
+import PropTypes from 'prop-types'
+import { routerRedux } from 'dva/router'
+import { connect } from 'dva'
+import { Page } from 'components'
+import queryString from 'query-string'
+import List from './List'
+
+const VehicleValidatePriceInfo = ({
+  location, dispatch, vehicleValidatePriceInfo, loading,
+}) => {
+  location.query = queryString.parse(location.search)
+
+  const { query, pathname } = location
+  const {
+    currentItem, modalVisible, modalType, isMotion,
+  } = vehicleValidatePriceInfo
+  const listProps = {
+    dataSource: currentItem,
+    loading: loading.effects['vehicleValidatePriceInfo/query'],
+    location,
+    isMotion,
+    onUpdate () {
+      const updateUser = 'nocookie'
+      dispatch({
+        type: 'vehicleValidatePriceInfo/update',
+        payload: updateUser,
+      })
+    },
+    onChange (record, value) {
+      record.price = value
+      dispatch({
+        type: 'vehicleValidatePriceInfo/updateItem',
+        payload: {
+          currentItem: record,
+        },
+      })
+    },
+  }
+  return (
+    <Page inner>
+      <List {...listProps} />
+    </Page>
+  )
+}
+
+VehicleValidatePriceInfo.propTypes = {
+  vehicleValidatePriceInfo: PropTypes.object,
+  location: PropTypes.object,
+  dispatch: PropTypes.func,
+  loading: PropTypes.object,
+}
+
+export default connect(({ vehicleValidatePriceInfo, loading }) => ({
+  vehicleValidatePriceInfo,
+  loading,
+}))(VehicleValidatePriceInfo)

@@ -1,0 +1,1286 @@
+{
+  "manage-location-list": {
+    "asc": true,
+    "condition": null,
+    "current": 1,
+    "limit": 2147483647,
+    "offset": 0,
+    "offsetCurrent": 0,
+    "openSort": true,
+    "orderByField": "",
+    "pages": 1,
+    "records": [
+      {
+        "provinceName": [
+          {
+            "provinceCode": "210000",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 1,
+        "regionName": "东北大区",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "东北大区调度员"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 946228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 146228273448718800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 246228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 346228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 446228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 546228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 646228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 746228273448738800,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 146228273448738801,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 146228273448738802,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 146228273448738803,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      },
+      {
+        "provinceName": [
+          {
+            "provinceCode": "1",
+            "provinceName": "辽宁"
+          }
+        ],
+        "regionId": 146228273448738804,
+        "regionName": "大区1",
+        "remark": "备注",
+        "status": 0,
+        "userName": [
+          {
+            "userCode": "0086c80fe4434e16ad05319564002e15",
+            "userName": "13500000088"
+          }
+        ]
+      }
+    ],
+    "searchCount": true,
+    "size": 10,
+    "total": 11
+  },
+  "manage-location": {
+    "provinceName": [
+      {
+        "provinceCode": "210000",
+        "provinceName": "辽宁"
+      }
+    ],
+    "regionId": 1,
+    "regionName": "东北大区",
+    "remark": "备注",
+    "status": 0,
+    "userName": [
+      {
+        "userCode": "0086c80fe4434e16ad05319564002e15",
+        "userName": "东北大区调度员"
+      }
+    ]
+  },
+  "provinc-names": {
+    "code": 0,
+    "data": [
+      {
+        "id": "110000",
+        "desc": "北京"
+      },
+      {
+        "id": "120000",
+        "desc": "天津"
+      },
+      {
+        "id": "310000",
+        "desc": "上海"
+      },
+      {
+        "id": "500000",
+        "desc": "重庆"
+      },
+      {
+        "id": "130000",
+        "desc": "河北"
+      },
+      {
+        "id": "140000",
+        "desc": "山西"
+      },
+      {
+        "id": "210000",
+        "desc": "辽宁"
+      },
+      {
+        "id": "220000",
+        "desc": "吉林"
+      },
+      {
+        "id": "230000",
+        "desc": "黑龙江"
+      },
+      {
+        "id": "320000",
+        "desc": "江苏"
+      },
+      {
+        "id": "330000",
+        "desc": "浙江"
+      },
+      {
+        "id": "340000",
+        "desc": "安徽"
+      },
+      {
+        "id": "350000",
+        "desc": "福建"
+      },
+      {
+        "id": "360000",
+        "desc": "江西"
+      },
+      {
+        "id": "370000",
+        "desc": "山东"
+      },
+      {
+        "id": "410000",
+        "desc": "河南"
+      },
+      {
+        "id": "420000",
+        "desc": "湖北"
+      },
+      {
+        "id": "430000",
+        "desc": "湖南"
+      },
+      {
+        "id": "440000",
+        "desc": "广东"
+      },
+      {
+        "id": "620000",
+        "desc": "甘肃"
+      },
+      {
+        "id": "510000",
+        "desc": "四川"
+      },
+      {
+        "id": "520000",
+        "desc": "贵州"
+      },
+      {
+        "id": "460000",
+        "desc": "海南"
+      },
+      {
+        "id": "530000",
+        "desc": "云南"
+      },
+      {
+        "id": "630000",
+        "desc": "青海"
+      },
+      {
+        "id": "610000",
+        "desc": "陕西"
+      },
+      {
+        "id": "450000",
+        "desc": "广西"
+      },
+      {
+        "id": "540000",
+        "desc": "西藏"
+      },
+      {
+        "id": "640000",
+        "desc": "宁夏"
+      },
+      {
+        "id": "650000",
+        "desc": "新疆"
+      },
+      {
+        "id": "150000",
+        "desc": "内蒙古"
+      }
+    ],
+    "message": null
+  },
+  "account-list": {
+    "code": 200,
+    "data": [
+      {
+        "accountUuid": "0086c80fe4434e16ad05319564002e15",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13500000088",
+        "realName": "",
+        "mobile": "13500000088",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "223436196803296001",
+        "creationTime": "2017-12-26 20:39:55",
+        "modifiedTime": "2017-12-26 20:39:55"
+      },
+      {
+        "accountUuid": "0691c276d86a4c01a380de7e3a09021e",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18010180722",
+        "realName": "",
+        "mobile": "18010180722",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "621100198907249065",
+        "creationTime": "2017-12-25 16:11:15",
+        "modifiedTime": "2017-12-25 16:11:15"
+      },
+      {
+        "accountUuid": "0957ce0b184b4c79996f8901df7ea22e",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13552315629",
+        "realName": "",
+        "mobile": "13552315629",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "411424199202260048",
+        "creationTime": "2017-12-26 14:16:52",
+        "modifiedTime": "2017-12-26 14:16:52"
+      },
+      {
+        "accountUuid": "098bb21c0fc14ffba3b480b79b611bf9",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111111",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-25 15:52:15",
+        "modifiedTime": "2017-12-26 16:03:21"
+      },
+      {
+        "accountUuid": "19159c5d46864738abcaca6cb1a1d51c",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13500000022",
+        "realName": "",
+        "mobile": "13500000006",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "610581198710234721",
+        "creationTime": "2017-12-27 11:51:23",
+        "modifiedTime": "2017-12-27 20:12:19"
+      },
+      {
+        "accountUuid": "1cf8b50c41a140d1b8083a285e3fa88d",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15075871111",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 14:27:27",
+        "modifiedTime": "2017-12-26 14:27:27"
+      },
+      {
+        "accountUuid": "2519a77286484e7a9d8d5ef427cbcbcb",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13718102718",
+        "realName": "刘堂兵",
+        "mobile": "13718102718",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "360423198109061718",
+        "creationTime": "2017-12-26 13:26:13",
+        "modifiedTime": "2017-12-26 13:26:13"
+      },
+      {
+        "accountUuid": "26f0c5b234ab4bf9bed62fc87111ee56",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490080",
+        "realName": "",
+        "mobile": "18701490080",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "510923197711248076",
+        "creationTime": "2017-12-27 15:48:57",
+        "modifiedTime": "2017-12-27 16:00:47"
+      },
+      {
+        "accountUuid": "2800cb456ede43658b1b87e7e7d6ac8a",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490070",
+        "realName": "",
+        "mobile": "18701490070",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "500000199010069722",
+        "creationTime": "2017-12-25 16:04:32",
+        "modifiedTime": "2017-12-25 16:04:32"
+      },
+      {
+        "accountUuid": "2b45f07324a7451c9b17919c9c92417f",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13691278421",
+        "realName": "",
+        "mobile": "13691278421",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "620524198907159600",
+        "creationTime": "2017-12-26 19:17:18",
+        "modifiedTime": "2017-12-26 19:17:18"
+      },
+      {
+        "accountUuid": "2d8480509290488baf6be95911360ca3",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490071",
+        "realName": "",
+        "mobile": "18701490071",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-25 16:14:32",
+        "modifiedTime": "2017-12-26 11:12:08"
+      },
+      {
+        "accountUuid": "327fc51ce91f4068a744e08841e45749",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490076",
+        "realName": "",
+        "mobile": "18701490076",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "441581199104042117",
+        "creationTime": "2017-12-26 15:23:08",
+        "modifiedTime": "2017-12-26 15:23:08"
+      },
+      {
+        "accountUuid": "33bd9907265344a4b02122f6cefa7b16",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13717721762",
+        "realName": "",
+        "mobile": "13717721762",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "372928199302095415",
+        "creationTime": "2017-12-27 10:17:01",
+        "modifiedTime": "2017-12-27 10:17:01"
+      },
+      {
+        "accountUuid": "3671edbced6a4fe88af50e61cd62a12e",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13581977764",
+        "realName": "",
+        "mobile": "13581977764",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-25 18:19:34",
+        "modifiedTime": "2017-12-25 18:19:34"
+      },
+      {
+        "accountUuid": "3e1b9766c826497ca1d7c39e7cb2fb3f",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111116",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 14:52:16",
+        "modifiedTime": "2017-12-27 14:52:16"
+      },
+      {
+        "accountUuid": "3e7f6b718e8c479db300a79bfe8c65c5",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15011111115",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 18:46:54",
+        "modifiedTime": "2017-12-27 18:54:12"
+      },
+      {
+        "accountUuid": "40fb5c3ac76440249d7c0341e7646df1",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13910010016",
+        "realName": "",
+        "mobile": "13910010016",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "632821198609110586",
+        "creationTime": "2017-12-27 13:48:18",
+        "modifiedTime": "2017-12-27 13:48:18"
+      },
+      {
+        "accountUuid": "435932e2d7954af2b6d1dacf02df57fd",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18980624688",
+        "realName": "",
+        "mobile": "18980624688",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 14:57:26",
+        "modifiedTime": "2017-12-26 14:57:26"
+      },
+      {
+        "accountUuid": "4db7321e273e40aeaa92a250a83a05ca",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15011111112",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 18:40:50",
+        "modifiedTime": "2017-12-27 18:40:50"
+      },
+      {
+        "accountUuid": "4e5bfcd3dfa34a30926b6895ab3b387f",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490088",
+        "realName": "",
+        "mobile": "18701490088",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-28 10:32:00",
+        "modifiedTime": "2017-12-28 10:32:00"
+      },
+      {
+        "accountUuid": "526463195da445dcbaa81b9dc3924fd3",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15011111113",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 10:51:02",
+        "modifiedTime": "2017-12-27 18:36:37"
+      },
+      {
+        "accountUuid": "558f0ea0cfa94b9382aec6237dceac9c",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15011111111",
+        "realName": "",
+        "mobile": "15011111111",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 16:24:14",
+        "modifiedTime": "2017-12-26 16:24:14"
+      },
+      {
+        "accountUuid": "5962ea0a34f2495bb9074d3d322c6aaf",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490077",
+        "realName": "",
+        "mobile": "18701490077",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "330825198210087014",
+        "creationTime": "2017-12-26 16:31:15",
+        "modifiedTime": "2017-12-26 16:31:15"
+      },
+      {
+        "accountUuid": "5e0a2c22151443b7866dc234942891f7",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18662200888",
+        "realName": "",
+        "mobile": "18662200888",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "510525197005252677",
+        "creationTime": "2017-12-27 10:28:56",
+        "modifiedTime": "2017-12-27 10:28:56"
+      },
+      {
+        "accountUuid": "62d35bd4984c45f4895bb9b5576463a4",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490086",
+        "realName": "",
+        "mobile": "18701490086",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 19:48:18",
+        "modifiedTime": "2017-12-27 19:48:18"
+      },
+      {
+        "accountUuid": "6a7e44cba12148808c83f70b878dcdb6",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "14412340001",
+        "realName": "",
+        "mobile": "14412340001",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "430422198307069026",
+        "creationTime": "2017-12-28 16:11:53",
+        "modifiedTime": "2017-12-28 16:11:53"
+      },
+      {
+        "accountUuid": "6b106643f89e474798741b35a31bb4fa",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490079",
+        "realName": "",
+        "mobile": "18701490079",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 10:16:15",
+        "modifiedTime": "2017-12-27 10:16:15"
+      },
+      {
+        "accountUuid": "70cb92b9195d4262b34cacaf9d031508",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15001396175",
+        "realName": "",
+        "mobile": "15001396175",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "220881198410251320",
+        "creationTime": "2017-12-27 09:23:20",
+        "modifiedTime": "2017-12-27 09:23:20"
+      },
+      {
+        "accountUuid": "75cbddb273474106a8da31c6e83e489d",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490085",
+        "realName": "",
+        "mobile": "18701490085",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "370112198902154537",
+        "creationTime": "2017-12-27 19:30:40",
+        "modifiedTime": "2017-12-27 19:36:57"
+      },
+      {
+        "accountUuid": "7a683e44cb3148f1b582560b98b1f76e",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490083",
+        "realName": "",
+        "mobile": "15201494633",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "370828198810086986",
+        "creationTime": "2017-12-25 16:25:44",
+        "modifiedTime": "2017-12-27 18:34:24"
+      },
+      {
+        "accountUuid": "8462ebcfccdb44b99b6b3c9688e842a9",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18611538084",
+        "realName": "",
+        "mobile": "18611538084",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "440981197809045416",
+        "creationTime": "2017-12-26 17:16:49",
+        "modifiedTime": "2017-12-26 17:19:16"
+      },
+      {
+        "accountUuid": "86c3151ab56642c0a4ece91626e95a62",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15321890057",
+        "realName": "",
+        "mobile": "15321890057",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "110104196809272515",
+        "creationTime": "2017-12-25 19:33:48",
+        "modifiedTime": "2017-12-25 19:33:48"
+      },
+      {
+        "accountUuid": "9b2b852924664accbe95f48e62355452",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111121",
+        "realName": "",
+        "mobile": "15611111119",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 19:03:10",
+        "modifiedTime": "2017-12-27 20:28:24"
+      },
+      {
+        "accountUuid": "9c8d8f3ac4ec46779b7fc096892229de",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490073",
+        "realName": "",
+        "mobile": "18701490072",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-25 16:32:10",
+        "modifiedTime": "2017-12-25 16:37:01"
+      },
+      {
+        "accountUuid": "9f62fb07d5dc4b2d9a83e010ae346ca0",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18600048409",
+        "realName": "",
+        "mobile": "18600048409",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-25 14:58:29",
+        "modifiedTime": "2017-12-25 14:58:29"
+      },
+      {
+        "accountUuid": "a013cc79a13f4f08aa6dfc47a1a67e46",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "17611567113",
+        "realName": "",
+        "mobile": "17611567113",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-28 10:31:54",
+        "modifiedTime": "2017-12-28 10:31:54"
+      },
+      {
+        "accountUuid": "a576cc30db41402c8805e00745a2ecb1",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15075871112",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 14:45:05",
+        "modifiedTime": "2017-12-26 14:45:05"
+      },
+      {
+        "accountUuid": "a9aaf43ad9d146218b4d745bc1800578",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490087",
+        "realName": "",
+        "mobile": "18701490087",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 20:24:33",
+        "modifiedTime": "2017-12-27 20:24:33"
+      },
+      {
+        "accountUuid": "ad60e91e4149451e8a80dfcb0511549c",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111112",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 14:22:35",
+        "modifiedTime": "2017-12-26 14:22:35"
+      },
+      {
+        "accountUuid": "ba43f0a5c33e4e1faa3de32374779ee0",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18700112298",
+        "realName": "",
+        "mobile": "18700112299",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-28 10:25:34",
+        "modifiedTime": "2017-12-28 10:37:10"
+      },
+      {
+        "accountUuid": "c6a58b4750f34a03972b5553d967b9c2",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18515962630",
+        "realName": "",
+        "mobile": "18515962630",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "330719196804253671",
+        "creationTime": "2017-12-25 16:06:59",
+        "modifiedTime": "2017-12-25 16:06:59"
+      },
+      {
+        "accountUuid": "c7abb8f96a4f4627846c0459f86e6ca5",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490075",
+        "realName": "",
+        "mobile": "18701490075",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "440229196908310715",
+        "creationTime": "2017-12-26 09:42:41",
+        "modifiedTime": "2017-12-26 10:32:13"
+      },
+      {
+        "accountUuid": "ca7b005b29824a9595222de4b3839d85",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "13901147700",
+        "realName": "",
+        "mobile": "13901147700",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 15:08:10",
+        "modifiedTime": "2017-12-26 15:08:10"
+      },
+      {
+        "accountUuid": "ddfc3aa70c6e4922b46407dd51647d5a",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111114",
+        "realName": "",
+        "mobile": "15611111114",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "511402199405043102",
+        "creationTime": "2017-12-26 16:39:47",
+        "modifiedTime": "2017-12-26 17:18:49"
+      },
+      {
+        "accountUuid": "e491c67280884bd0b716ee98a6795a55",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111115",
+        "realName": "",
+        "mobile": "18701490078",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-26 17:41:33",
+        "modifiedTime": "2017-12-26 17:46:32"
+      },
+      {
+        "accountUuid": "e8422335f0a245c2abdc8c2ca3d7b6aa",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18611538089",
+        "realName": "",
+        "mobile": "18611538089",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "440981197809045416",
+        "creationTime": "2017-12-26 17:45:49",
+        "modifiedTime": "2017-12-26 17:45:49"
+      },
+      {
+        "accountUuid": "ebe83c0ccfcb496db2e5e94c8658b164",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490081",
+        "realName": "",
+        "mobile": "18701490081",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "330682198012298036",
+        "creationTime": "2017-12-27 17:26:00",
+        "modifiedTime": "2017-12-27 17:36:21"
+      },
+      {
+        "accountUuid": "edb601de15124c929c2e308769f06d12",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701490082",
+        "realName": "",
+        "mobile": "18701490082",
+        "email": "",
+        "gender": 2,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 17:47:15",
+        "modifiedTime": "2017-12-27 17:47:15"
+      },
+      {
+        "accountUuid": "f017a2263db14e53b99a31ff4bbe834a",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111117",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "",
+        "creationTime": "2017-12-27 16:57:21",
+        "modifiedTime": "2017-12-27 16:57:21"
+      },
+      {
+        "accountUuid": "f20faff953204792bf9bc9848faf13b0",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15136607667",
+        "realName": "",
+        "mobile": "15136607667",
+        "email": "",
+        "gender": 1,
+        "birthday": null,
+        "idCardNum": "411424199403200092",
+        "creationTime": "2017-12-26 17:42:30",
+        "modifiedTime": "2017-12-26 17:42:30"
+      },
+      {
+        "accountUuid": "f3b2c1a8823d4016b691c3b57f7341e6",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "18701496120",
+        "realName": "",
+        "mobile": "18701496120",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "450204197107241018",
+        "creationTime": "2017-12-28 10:04:49",
+        "modifiedTime": "2017-12-28 10:13:40"
+      },
+      {
+        "accountUuid": "ff9880b813c6496f90796d93d4c55324",
+        "corpUuid": "58c12a4b87ab458787f96688964d89c3",
+        "account": "15611111118",
+        "realName": "",
+        "mobile": "",
+        "email": "",
+        "gender": 0,
+        "birthday": null,
+        "idCardNum": "510923197711248076",
+        "creationTime": "2017-12-27 17:32:56",
+        "modifiedTime": "2017-12-27 17:32:56"
+      }
+    ],
+    "message": "SUCCESS"
+  }
+
+,
+  "carrier-info": {
+    "records": [
+      {
+        "id": 1,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商1",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 2,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商2",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 3,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商3",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      } ,{
+        "id": 4,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商4",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 5,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商5",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 6,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商6",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 7,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商7",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 8,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商8",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 9,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商9",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 10,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商10",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      },{
+        "id": 11,
+        "carrierShortName": "承运商简称",
+        "carrierName": "承运商11",
+        "legalPerson": "法人1",
+        "legalTel":18640037501,
+        "linkMan": "主要业务联系人",
+        "linkTel": "主联系人电话",
+        "insuranceId": "保险费id",
+        "status": "状态",
+        "remark": "备注"
+      }
+
+    ],
+    "page": 1,
+    "total": 11,
+    "pages": 2,
+    "current": 1
+  },
+
+  "carrier-line": {
+    "records": [
+      {
+        "id": 1,
+        "origin": "起始地1",
+        "destination": "目的地",
+        "carrier": "承运商",
+        "freightRrates":"运价",
+        "status": "状态"
+
+      },{
+        "id": 2,
+        "origin": "起始地2",
+        "destination": "目的地",
+        "carrier": "承运商",
+        "freightRrates":"运价",
+        "status": "状态"
+
+      },{
+        "id": 3,
+        "origin": "起始地3",
+        "destination": "目的地",
+        "carrier": "承运商",
+        "freightRrates":"运价",
+        "status": "状态"
+
+      },{
+        "id": 4,
+        "origin": "起始地4",
+        "destination": "目的地",
+        "carrier": "承运商",
+        "freightRrates":"运价",
+        "status": "状态"
+
+      }
+
+    ],
+    "page": 1,
+    "total": 11,
+    "pages": 2,
+    "current": 1
+  },
+
+
+  "ii-level-addr": {
+    "records": [
+      {
+        "value": "01",
+        "label": "北京市",
+        "children": [{
+          "value": "011",
+          "label": "朝阳区"
+        },{
+          "value": "012",
+          "label": "丰台区"
+        }]
+      },  {
+        "value": "02",
+        "label": "辽宁省",
+        "children": [{
+          "value": "021",
+          "label": "沈阳市"
+        },{
+          "value": "022",
+          "label": "大连市"
+        }]
+      }
+
+    ]
+  }
+}
